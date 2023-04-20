@@ -1,0 +1,14 @@
+#nimi {
+    border: 1px solid black;
+    text-align: center;
+    font-size: 25px;
+}
+
+#linkit {
+    border: 1px solid black;
+    width: 250px;
+    height: 500px;
+    float: left;
+    text-align: center;
+}
+
