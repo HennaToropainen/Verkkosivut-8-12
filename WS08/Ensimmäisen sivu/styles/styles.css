@@ -1,0 +1,27 @@
+#otsikko {
+    text-align: center;
+    font-size: 25px;
+    border: 1px solid black;
+}
+
+#linkit {
+    font-size: 15px;
+    text-align: center;
+    border: 1px solid black;
+    width: 250px;
+    height: 500px;
+    float: left;
+}
+
+#teksti {
+    font-size: 15px;
+    border: 1px solid black;
+    height: 500px;   
+}
+
+#contact-bar { 
+    font-size: 13px;
+    text-align: center;
+    border: 1px solid black;
+    height: 50px;
+}
