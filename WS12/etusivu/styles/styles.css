@@ -27,7 +27,6 @@ h1 {
     font-size: 20px;
 }
 
-#kuva {
-    float: right;
-    padding-right: 50px;
+#kansikuva {
+    padding-top: 15px;
 }
