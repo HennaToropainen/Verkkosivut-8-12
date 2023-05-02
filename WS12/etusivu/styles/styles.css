@@ -15,4 +15,19 @@ h1 {
 #nav {
     color: white;
     text-align: center;
+    font-size: 23px;
+}
+
+#etusivu {
+    color: white;
+    padding-left: 30px;
+    padding-top: 30px;
+    width: 55%;
+    height: 100%;
+    font-size: 20px;
+}
+
+#kuva {
+    float: right;
+    padding-right: 50px;
 }
