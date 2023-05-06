@@ -29,3 +29,8 @@ a:visited {
 a:hover {
     color: rgb(156, 9, 9);
 }
+
+#kuva1 {
+    padding-left: 30px;
+    padding-top: 30px;
+}
