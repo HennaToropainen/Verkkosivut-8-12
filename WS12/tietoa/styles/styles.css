@@ -47,7 +47,7 @@ h3 {
     width: 30%;
     text-align: center;
     margin-left: 30px;
-    border: 1px solid rgb(156, 9, 9);
+    border: 1px solid white;
     padding: 8px;
 }
 
@@ -71,7 +71,7 @@ h4 {
     margin-right: 65px;
     margin-top: 50px;
     width: 30%;
-    border: 1px solid rgb(156, 9, 9);
+    border: 1px solid white;
     text-align: center;
     padding: 8px;
     float: right;
