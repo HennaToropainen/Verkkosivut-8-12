@@ -33,7 +33,7 @@ a:hover {
 
 h3 {
     color: white;
-    padding-top: 15px;
+    padding-top: 5px;
     font-size: 25px;
 }
 
@@ -42,7 +42,7 @@ h3 {
     font-size: 20px;
 }
 
-#ajaminen {
+#kaarreajo {
     background-color: black;
     width: 30%;
     text-align: center;
@@ -51,8 +51,33 @@ h3 {
     padding: 8px;
 }
 
+h4 {
+    font-size: 25px;
+    padding-top: 5px;
+}
+
 #kuva1 {
     margin-left: 500px;
-    margin-top: -360px
-    
+    margin-top: -360px   
+}
+
+#osa2 {
+    color: white;
+    font-size: 20px;
+}
+
+#ohjaus {
+    color: white;
+    margin-right: 65px;
+    margin-top: 50px;
+    width: 30%;
+    border: 1px solid rgb(156, 9, 9);
+    text-align: center;
+    padding: 8px;
+    float: right;
+}
+
+#kuva2 {
+    margin-left: 30px;
+    margin-top: 50px;
 }
