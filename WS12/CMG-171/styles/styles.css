@@ -30,19 +30,26 @@ a:hover {
     color: rgb(156, 9, 9);
 }
 
-h3 {
-    color: white;
-    padding-top: 30px;
-    padding-left: 35px;
-    font-size: 23px;
-}
 
 #taulukko {
     color: white;
+    padding-left: 30px;
+    font-size: 19px;
 }
 
 table, th, td {
     border: 1px solid white;
     text-align: center;
-  }
+}
+
+p {
+    color: white;
+    font-size: 40px;
+}
+
+#tiedot {
+    padding-left: 30px;
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
 
