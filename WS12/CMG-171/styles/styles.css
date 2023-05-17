@@ -32,11 +32,11 @@ a:hover {
 #taulukko {
     color: black;
     padding-left: 30px;
-    font-size: 19px;
+    font-size: 23px;
 }
 
 table, th, td {
-    border: 1px solid black;
+    border: 3px solid black;
     text-align: center;
 }
 
@@ -51,3 +51,7 @@ p {
     padding-top: 30px;
 }
 
+#kuva1 {
+    margin-left: 750px;
+    margin-top: -380px;
+}
