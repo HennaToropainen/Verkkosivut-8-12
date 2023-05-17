@@ -35,6 +35,7 @@ a:hover {
     color: black;
     padding-left: 30px;
     font-size: 23px;
+    margin-top: 40px;
 }
 
 table, th, td {
@@ -50,14 +51,15 @@ p {
 
 #tiedot {
     padding-left: 30px;
-    padding-bottom: 30px;
-    padding-top: 30px;
+    padding-bottom: 5px;
+    width: 500px;
+    height: 100px;
     
 }
 
 #kuva1 {
     margin-left: 750px;
-    margin-top: -380px;
+    margin-top: -300px;
 }
 
 #varusteet {
