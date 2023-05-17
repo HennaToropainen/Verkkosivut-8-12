@@ -4,7 +4,8 @@ body {
 
 h1 {
     color: black;
-    border: 3px solid rgb(156, 9, 9);
+    background-color: whitesmoke;
+    box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.712);
     height: 100px;
     text-align: center;
     font-size:60px;
@@ -46,7 +47,7 @@ h3 {
     width: 30%;
     text-align: center;
     margin-left: 30px;
-    border: 1px solid black;
+    box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.712);
     padding: 8px;
 }
 
@@ -71,7 +72,7 @@ h4 {
     margin-right: 65px;
     margin-top: 50px;
     width: 30%;
-    border: 1px solid black;
+    box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.712);
     text-align: center;
     padding: 8px;
     float: right;
@@ -87,7 +88,7 @@ h4 {
     width: 30%;
     text-align: center;
     margin-left: 30px;
-    border: 1px solid black;
+    box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.712);
     padding: 8px;
     margin-top: 30px;
 
