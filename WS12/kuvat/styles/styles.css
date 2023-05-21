@@ -1,40 +1,34 @@
 body {
-    background-color: black;
+    background-color: rgb(222, 222, 222)
 }
 
 h1 { 
-    color: white;
-    background-color: black;
-    border: 3px solid rgb(169, 0, 0);
+    color: black;
+    background-color: whitesmoke;
+    box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.712);
     height: 100px;
     text-align: center;
-    font-size:60px;
+    font-size:70px;
     padding-top: 40px;
 }
 
 #nav {
-    color: white;
+    color: black;
     text-align: center;
     font-size: 23px;
+    margin-bottom: 50px;
 }
 
 a:link {
-    color: white;
+    color: black;
 }
 
 a:visited {
-    color: white;
+    color: black;
 }
 
 a:hover {
     color: rgb(156, 9, 9);
 }
 
-#kuva1 {
-    padding-left: 30px;
-    padding-top: 30px;
-}
 
-#kuva2 {
-    justify-content: center;
-}
