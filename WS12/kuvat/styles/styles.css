@@ -4,12 +4,10 @@ body {
 
 h1 { 
     color: black;
-    background-color: whitesmoke;
-    box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.712);
-    height: 100px;
+    padding-top: 45px;
+    padding-right: 45px;
     text-align: center;
     font-family:'Times New Roman', Times, serif;
-    padding-top: 30px;
 }
 
 #nav {
@@ -35,12 +33,16 @@ a:hover {
 }
 
 #kuva4 {
-    margin-top: 20px;
-    margin-bottom: 20px;
+    margin-top: 30px;
+    margin-bottom: 30px;
 }
 
 #kuva5 {
-    margin-bottom: 20px
+    margin-bottom: 30px
+}
+
+#kuva6 {
+    margin-bottom: 30px;
 }
 
 
