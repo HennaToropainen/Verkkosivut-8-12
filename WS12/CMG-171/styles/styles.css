@@ -5,11 +5,13 @@ body {
 
 h1 {
     background-color: whitesmoke;
+    border: 3px solid rgb(156, 9, 9);
     box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.712);
     height: 100px;
     text-align: center;
     font-size:70px;
     padding-top: 40px;
+    width: 100%;
 }
 
 #nav {
@@ -51,15 +53,16 @@ p {
 #tiedot {
     padding-left: 30px;
     padding-bottom: 5px;
-    width: 500px;
+    width: 100%;
     height: 100px;
     font-weight: bolder;
     
 }
 
 #kuva1 {
-    margin-left: 750px;
-    margin-top: -300px;
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-bottom: 30px;
 }
 
 #varusteet {
@@ -68,7 +71,6 @@ p {
     padding-top: 5px;
     padding-bottom: 5px;
     margin-left: 30px;
-    margin-top: -100px;
     width: 500px;
     box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.712);
     background-color: whitesmoke;
@@ -82,6 +84,6 @@ h4 {
 
 form {
     padding-left: 30px;
-    font-size: 17px;
+    font-size: 23px;
     padding-top: 5px;
 }
