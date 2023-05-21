@@ -45,9 +45,10 @@ h3 {
 
 #kaarreajo {
     background-color: whitesmoke;
-    width: 30%;
+    width: 90%;
     text-align: center;
-    margin-left: 30px;
+    margin-left: 50px;
+    margin-right: 50px;
     box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.712);
     padding: 8px;
 }
@@ -58,8 +59,7 @@ h4 {
 }
 
 #kuva1 {
-    margin-left: 500px;
-    margin-top: -360px   
+    margin-top: 30px;
 }
 
 #osa2 {
@@ -70,9 +70,11 @@ h4 {
 #ohjaus {
     color: black;
     background-color: whitesmoke;
-    margin-right: 65px;
-    margin-top: 50px;
-    width: 30%;
+    margin-right: 50px;
+    margin-left: 50px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    width: 90%;
     box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.712);
     text-align: center;
     padding: 8px;
@@ -80,15 +82,15 @@ h4 {
 }
 
 #kuva2 {
-    margin-left: 30px;
-    margin-top: 50px;
+    margin-top: 30px;
 }
 
 #voima {
     background-color: whitesmoke;
-    width: 30%;
+    width: 90%;
     text-align: center;
-    margin-left: 30px;
+    margin-left: 50px;
+    margin-right: 50px;
     box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.712);
     padding: 8px;
     margin-top: 30px;
@@ -105,7 +107,6 @@ h5 {
 }
 
 #kuva3 {
-    float: right;
-    margin-left: 500px;
-    margin-top: -370px;
+    margin: 30px;
+    margin-bottom: 30px;
 }
